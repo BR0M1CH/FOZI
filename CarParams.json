@@ -1,0 +1,39 @@
+{
+    "KIA Stinger" :
+    {
+        "height" : "1400",
+        "width" : "1870",
+        "long" : "4830"
+        
+    },
+    "Toyota Rav-4" :
+    {
+        "height" : "1685",
+        "width" : "1855",
+        "long" : "4600"
+    },
+    "AUDI Q8" :
+    {
+        "height" : "1705",
+        "width" : "1995",
+        "long" : "4986"
+    },
+    "Lada Granta" :
+    {   
+        "height" : "1500",
+        "width" : "1700",
+        "long" : "4265"
+    },
+    "Lexus UX" :
+    {
+        "height" : "1520",
+        "width" : "1840",
+        "long" : "4495"  
+    },
+    "KIA Rio" :
+    {
+        "height" : "1470",
+        "width" : "1740",
+        "long" : "4420"
+    }    
+}

@@ -1,0 +1,17 @@
+{
+    "black" : ["Pictures\\BlackStinger.png", "Pictures\\BlackSUV.png", "Pictures\\BlackHatch.png", "Pictures\\BlackCross.png", "Pictures\\BlackSedan.png", "Pictures\\BlackGranta.png"],
+    "red" : ["Pictures\\RedStinger.png", "Pictures\\RedSUV.png", "Pictures\\RedHatch.png", "Pictures\\RedCross.png", "Pictures\\RedSedan.png", "Pictures\\RedGranta.png"],
+    "white" : ["Pictures\\WhiteStinger.png", "Pictures\\WhiteSUV.png", "Pictures\\WhiteHatch.png", "Pictures\\WhiteCross.png", "Pictures\\WhiteSedan.png", "Pictures\\WhiteGranta.png"],
+    "gray" : ["Pictures\\GrayStinger.png", "Pictures\\GraySUV.png", "Pictures\\GrayHatch.png", "Pictures\\GrayCross.png", "Pictures\\GraySedan.png", "Pictures\\GrayGranta.png"],
+    "sun" : "Pictures\\Sun.png",
+    "snow" : "Pictures\\Snow.png",
+    "rain" : "Pictures\\Rain.png",
+    "smoke" : "Pictures\\Smoke.png",
+    "asphalt" : "Pictures\\Asphalt.png",
+    "dirt" : "Pictures\\Dirt.png",
+    "grass" : "Pictures\\Grass.png", 
+    "snowgr" : "Pictures\\SnowGR.png",   
+    "play" : "Pictures\\play.png"
+}
+
+
